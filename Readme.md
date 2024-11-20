@@ -2,7 +2,7 @@ Advanced Computer Architecture: Processor Design (ECSE 4780/6700)
 
 Abdoula Barry
 
-02/15/2024
+Last significant update : 11/19/2024
 
 ## Project 1: Cache Coherence
 
