@@ -4,7 +4,7 @@ Abdoula Barry
 
 Last significant update : 02/15/2024
 
-## Project 1: Cache Coherence
+## Project 1: Cache Coherence (In-Progress)
 
 ### Section 1: Design Description
 
